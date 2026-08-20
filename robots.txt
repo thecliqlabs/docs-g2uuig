@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-caaf3n.shadowdiary.com/sitemap.xml
